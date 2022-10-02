@@ -38,7 +38,7 @@ The machine learning model used in this project will firstly have to be generate
 
 ---
 
-## **:sunglasses: CREATORS**
+## **:shipit: CREATORS**
 1. [Aryan Ahuja](https://github.com/theshredbox)
 2. [Yash Sharma](https://github.com/yash2arma)
 3. [Anuhya Deverakonda](https://github.com/d-anuhya)
